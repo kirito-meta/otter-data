@@ -1,0 +1,406 @@
+[
+    {
+        "filename": "wall_1.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_10.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_100.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_101.jpg",
+        "category": "Animals"
+    },
+    {
+        "filename": "wall_102.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_103.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_104.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_11.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_12.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_13.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_14.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_15.jpg",
+        "category": "Architecture"
+    },
+    {
+        "filename": "wall_16.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_17.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_18.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_19.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_2.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_20.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_21.jpg",
+        "category": "Vibrant & Colorful"
+    },
+    {
+        "filename": "wall_22.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_23.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_24.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_25.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_26.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_27.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_28.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_29.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_3.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_30.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_31.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_32.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_33.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_34.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_35.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_36.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_37.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_38.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_39.jpg",
+        "category": "Animals"
+    },
+    {
+        "filename": "wall_4.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_40.jpg",
+        "category": "Animals"
+    },
+    {
+        "filename": "wall_41.jpg",
+        "category": "Vibrant & Colorful"
+    },
+    {
+        "filename": "wall_42.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_43.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_44.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_45.jpg",
+        "category": "Animals"
+    },
+    {
+        "filename": "wall_46.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_47.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_48.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_49.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_5.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_50.jpg",
+        "category": "Animals"
+    },
+    {
+        "filename": "wall_51.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_52.jpg",
+        "category": "Animals"
+    },
+    {
+        "filename": "wall_53.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_54.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_55.jpg",
+        "category": "Cityscapes"
+    },
+    {
+        "filename": "wall_56.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_57.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_58.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_59.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_6.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_60.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_61.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_62.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_63.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_64.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_65.jpg",
+        "category": "Architecture"
+    },
+    {
+        "filename": "wall_66.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_67.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_68.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_69.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_7.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_70.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_74.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_75.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_76.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_77.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_78.jpg",
+        "category": "Vibrant & Colorful"
+    },
+    {
+        "filename": "wall_79.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_8.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_80.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_81.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_82.jpg",
+        "category": "Abstract"
+    },
+    {
+        "filename": "wall_83.jpg",
+        "category": "Abstract"
+    },
+    {
+        "filename": "wall_84.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_85.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_86.jpg",
+        "category": "Abstract"
+    },
+    {
+        "filename": "wall_87.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_88.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_89.jpg",
+        "category": "Space & Astronomy"
+    },
+    {
+        "filename": "wall_9.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_90.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_91.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "filename": "wall_92.jpg",
+        "category": "Dark & Moody"
+    },
+    {
+        "filename": "wall_93.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_94.jpg",
+        "category": "Architecture"
+    },
+    {
+        "filename": "wall_95.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_96.jpg",
+        "category": "Nature"
+    },
+    {
+        "filename": "wall_97.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_98.jpg",
+        "category": "Minimalist"
+    },
+    {
+        "filename": "wall_99.jpg",
+        "category": "Sci-Fi"
+    }
+]
